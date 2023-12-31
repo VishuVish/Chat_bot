@@ -1,0 +1,32 @@
+{
+  "questions": [
+    {
+      "question": " Hey",
+      "answer": " hey "
+    },
+    {
+      "question": " How are you ? ",
+      "answer": "I am fine thank you "
+    },
+    {
+      "question": " What is your name ",
+      "answer": "I am JoJo"
+    },
+    {
+      "question": "Where are you from ",
+      "answer": "I am from the Virtual World"
+    },
+    {
+      "question": " Give me information about India ",
+      "answer": "India is very beautiful country, and is rich in culture"
+    },
+    {
+      "question": " hi ",
+      "answer": "Hey"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hi"
+    }
+  ]
+}
